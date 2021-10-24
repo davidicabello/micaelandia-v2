@@ -38,9 +38,13 @@ body {
     background: url(../images/main-hero-back.png)no-repeat center center fixed;
 }
 
-.hero-image2 {
+.hero-image1 {
     border-radius: 50px;
     max-width: 75%;
+}
+.hero-image2 {
+    border-radius: 50px;
+    max-width: 60%;
 }
 
 .hero-message {
