@@ -40,7 +40,7 @@ body {
 .hero-message h1 {
     font-weight: bold;
     color: #3b625f;
-    font-size: 55px;
+    font-size: 45px;
 }
 
 .hero-image {
@@ -49,4 +49,10 @@ body {
 
 .main-message {
     background: #f5e9e7;
+}
+
+.main-message h1 {
+    font-weight: bold;
+    color: #3b625f;
+    font-size: 45px;
 }
