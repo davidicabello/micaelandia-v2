@@ -19,6 +19,7 @@ body {
 
 .navbar {
     padding: 20px;
+    transition: top 0.3s;
 }
 
 .hero-section {
