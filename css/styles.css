@@ -6,6 +6,7 @@
 body {
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
+    background-color: #faf9f7;
 }
 
 .centrado {
@@ -13,19 +14,28 @@ body {
 }
 
 .espacios {
-    padding-top: 75px;
-    padding-bottom: 75px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .navbar {
-    padding: 20px;
+    padding: 25px;
     transition: top 0.3s;
+}
+
+.navcontainer {
+    max-width: 1400px;
+}
+
+.hero-container {
+    max-width: 1600px;
 }
 
 .hero-section {
     width: 100%;
-    background: #f6d3cc;
+    background: #faf9f7;
     min-height: 100vh;
+    background: url(../images/main-hero-back.png)no-repeat center center;
 }
 
 .hero-image2 {
@@ -56,4 +66,8 @@ body {
     font-weight: bold;
     color: #3b625f;
     font-size: 45px;
+}
+
+.message-inner {
+    padding: 100px;
 }
