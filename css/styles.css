@@ -7,6 +7,7 @@ body {
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
     background-color: #faf9f7;
+    color: #666;
 }
 
 .displayflex {
@@ -135,6 +136,42 @@ body {
 
 .only-footer {
     background: #f8cdc2;
+    color: #666;
+}
+
+li {
+    text-decoration: none;
+    list-style: none;
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    opacity: 1;
+}
+
+a:hover {
+    color: #c54223;
+}
+
+.only-footer p {
+    color: #c54223;
+    font-weight: bold;
+}
+
+.footer-copyright {
+    padding: 10px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
 }
 
 .float {
@@ -155,7 +192,6 @@ body {
 .my-float {
     margin-top: 16px;
 }
-
 
 @media (max-width:991px) {
     .hero-message, .hero-description {
