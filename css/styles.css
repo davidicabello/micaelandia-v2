@@ -31,6 +31,10 @@ body {
     margin-bottom: 20px;
 }
 
+.margins-big {
+    margin-bottom: 50px;
+}
+
 .navbar {
     padding: 10px;
     transition: top 0.3s;
@@ -47,7 +51,7 @@ body {
 .hero-section {
     width: 100%;
     background: #faf9f7;
-    background: url(../images/main-hero-back.png)no-repeat center center fixed;
+    background: url(../images/Rosa\ Vintage\ Bicicleta\ Fondo\ de\ Pantalla.png)no-repeat center center fixed;
 }
 
 .hero-image1 {
@@ -71,6 +75,35 @@ body {
     font-weight: bold;
     color: #3b625f;
     font-size: 2.5rem;
+}
+
+.letritas h1 {
+    font-weight: bold;
+    color: #3b625f;
+    font-size: 2.5rem;
+}
+
+.letritas strong {
+    color: #f8aa97;
+}
+
+.redi {
+    color: #c54223;
+}
+
+b {
+    color: #c54223;
+    text-decoration: none;
+    font-weight: 100;
+}
+
+.frases h2 {
+    font-weight: bold;
+    color: #3b625f;
+}
+
+.frases i {
+    font-size: 100px;
 }
 
 .hero-image {
@@ -116,6 +149,11 @@ body {
     max-width: 70%;
 }
 
+.img-mision {
+    margin: 15px;
+    max-width: 40%;
+}
+
 .col-sm-4 .row {
     justify-content: center;
 }
@@ -143,6 +181,12 @@ li {
     text-decoration: none;
     list-style: none;
     color: whitesmoke;
+}
+
+.contacto a {
+    text-decoration: none;
+    color: #f8aa97;
+    opacity: 1;
 }
 
 a {
