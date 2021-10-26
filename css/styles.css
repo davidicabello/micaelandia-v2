@@ -6,12 +6,16 @@
 body {
     font-family: 'Roboto Slab', serif;
     font-weight: bold;
-    background-color: #faf9f7;
+    background-color: #f7f2ef;
     color: #666;
 }
 
 .displayflex {
     display: inline-block;
+}
+
+.aligncenter {
+    align-items: center;
 }
 
 .centrado {
@@ -54,9 +58,18 @@ body {
     background: url(../images/Rosa\ Vintage\ Bicicleta\ Fondo\ de\ Pantalla.png)no-repeat center center fixed;
 }
 
+.mision-section {
+    width: 100%;
+    background-color: #f7f2ef;
+}
+
 .hero-image1 {
     border-radius: 50px;
     max-width: 70%;
+}
+
+p {
+    font-size: 17px;
 }
 
 .hero-image2 {
@@ -121,6 +134,10 @@ b {
 
 .message-inner {
     padding-bottom: 100px;
+    max-width: 650px;
+}
+
+.message-inner___ {
     max-width: 650px;
 }
 
