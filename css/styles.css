@@ -39,6 +39,24 @@ body {
     margin-bottom: 50px;
 }
 
+.allmargins {
+    margin: 15px;
+}
+
+.backgrey {
+    background-color: #f7f2ef;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+.backpink {
+    background-color: #f8cdc2;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
 .navbar {
     padding: 10px;
     transition: top 0.3s;
@@ -190,7 +208,7 @@ b {
 }
 
 .only-footer {
-    background: #f8cdc2;
+    background: #f8aa97;
     color: #666;
 }
 
