@@ -181,7 +181,7 @@ b {
 
 .img-sesiones {
     margin: 15px;
-    max-width: 40%;
+    max-width: 50%;
 }
 
 .img-mision {
@@ -189,7 +189,7 @@ b {
     max-width: 40%;
 }
 
-.col-sm-4 .row {
+.col-sm-3 .row {
     justify-content: center;
 }
 
