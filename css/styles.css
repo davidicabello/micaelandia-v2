@@ -181,7 +181,7 @@ b {
 
 .img-sesiones {
     margin: 15px;
-    max-width: 50%;
+    max-width: 40%;
 }
 
 .img-mision {
@@ -285,6 +285,6 @@ ul {
         max-width: 60%;
     }
     .img-sesiones {
-        max-width: 60%;
+        max-width: 30%;
     }
 }
